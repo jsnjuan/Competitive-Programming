@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains my solutions to competitive programming problems I have participated.
+This repo contains my solutions to competitive programming problems from contests have participated.
 
 ## sources
 
