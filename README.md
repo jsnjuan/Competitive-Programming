@@ -10,4 +10,4 @@ Google has mantained a coding competition tradition for years. First competition
 
 ### Project Euler
 
-ProjecEuler.net is a nice math problems site intended _for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context_, as stated in his website's description. It is also advised that the use of a computer programming skills will be required to solve most problems.
+ProjecEuler.net is a nice math problems site intended _for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context_, as stated in his website. It is also advised that the use of a computer programming skills will be required to solve most problems.
